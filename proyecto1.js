@@ -8,6 +8,11 @@ function crearVector(n, m){
     return miarray
 }
 
+function suma(v1,v2,v3){
+    resultado = v1+v2+v3
+    return resultado
+}
+
 function sumaVector(v1,v2){
     let miarray=[]
     for(x=0;x<v1.length;x++){
