@@ -8,17 +8,7 @@ function crearVector(n, m){
     return miarray
 }
 
-function sumaVector(v1,v2){
-    let miarray=[]
-    for(x=0;x<v1.length;x++){
-        
-        if(v1.length = v2.length){
-            miarray[x] = v1[x] + v2[x]
-        }
-    }
-    return miarray
-}
-console.log(sumaVector([1,2,3],[1,2,3]));
+
 
 
 function restaVector(v1,v2){
