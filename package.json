@@ -1,0 +1,19 @@
+{
+  "name": "primerproyectogit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proyecto1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djimenev/primerproyectogit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djimenev/primerproyectogit/issues"
+  },
+  "homepage": "https://github.com/djimenev/primerproyectogit#readme"
+}

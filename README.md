@@ -1,2 +1,0 @@
-# primerproyectogit
-primer proyecto git
