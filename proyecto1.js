@@ -58,4 +58,11 @@ function productoNumeroVector(v1,v2){
     return miarray
 }
 
-module.exports = {productoNumeroVector, sumaVector, restaVector,productoVector,crearVector}
+function calcularCuadrado(v1){
+   let x = Math.pow(v1,2)
+    return x
+}
+
+
+
+module.exports = {productoNumeroVector, sumaVector, restaVector,productoVector,crearVector,calcularCuadrado}
